@@ -1,0 +1,1 @@
+console.log("I was uploaded to github from my terminal in vs code!");
